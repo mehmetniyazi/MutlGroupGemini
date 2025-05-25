@@ -49,6 +49,7 @@ dependencies {
     implementation(libs.lifecycle.viewModel)
     implementation(libs.lifecycle.viewmMdelCompose)
     implementation(libs.gemini)
+    implementation(libs.coil)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
