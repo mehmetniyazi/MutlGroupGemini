@@ -7,13 +7,8 @@ import androidx.activity.enableEdgeToEdge
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material3.Scaffold
-import androidx.compose.material3.Text
-import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.tooling.preview.Preview
-import com.softtech.myapplication.ui.chat.ChatScreen
 import com.softtech.myapplication.ui.compareimage.CompareImageScreen
-import com.softtech.myapplication.ui.loadphoto.LoadPhotoScreen
 import com.softtech.myapplication.ui.theme.MyApplicationTheme
 
 class MainActivity : ComponentActivity() {
